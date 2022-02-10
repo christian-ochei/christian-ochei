@@ -1,16 +1,18 @@
-### Hi there 👋
+Am into Digital Signal Processing and Artificial Intelligence.
 
-<!--
-**christian-ochei/christian-ochei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currenly working on **FreeDimentionalAudio and DifferentiableCrystal** 
 
-Here are some ideas to get you started:
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Some of my Prior works
+
+- Scrpt Engine
+[Blog post](https://christian-o.medium.com/i-designed-scrpt-engine-and-here-is-my-experience-81938a04a717) | 
+[Github](https://github.com/christian-ochei/Scrpt)
+
+
+ - Designed a website for the NSHS store
+[Visit](https://schoolstore12348.editorx.io/menu)
+
+- [NuralEngine](https://github.com/christian-ochei/NuralEngine)
