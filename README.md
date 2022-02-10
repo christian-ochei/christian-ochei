@@ -4,5 +4,5 @@ I Am into Digital Signal Processing and Artificial Intelligence research in comp
 Scrpt Engine
 [Blog post,](https://christian-o.medium.com/i-designed-scrpt-engine-and-here-is-my-experience-81938a04a717)
 [Github](https://github.com/christian-ochei/Scrpt)
-| [Designed a website for the NSHS store](https://schoolstore12348.editorx.io/menu)
+| [A Website for the NSHS store](https://schoolstore12348.editorx.io/menu)
 | [NuralEngine](https://github.com/christian-ochei/NuralEngine)
