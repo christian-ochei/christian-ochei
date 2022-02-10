@@ -1,6 +1,6 @@
 I am into Digital Signal Processing and Artificial Intelligence research in computer vision, currenly working on **FreeDimentionalAudio and DifferentiableCrystal**.
 
-#### Some of my Prior works include
+#### Some of my works include
 Scrpt Engine
 [Blog post,](https://christian-o.medium.com/i-designed-scrpt-engine-and-here-is-my-experience-81938a04a717)
 [Github](https://github.com/christian-ochei/Scrpt)
