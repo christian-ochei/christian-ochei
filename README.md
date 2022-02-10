@@ -1,4 +1,4 @@
-I Am into Digital Signal Processing and Artificial Intelligence research, currenly working on **FreeDimentionalAudio and DifferentiableCrystal**.
+I Am into Digital Signal Processing and Artificial Intelligence research in Computer Vision currenly working on **FreeDimentionalAudio and DifferentiableCrystal**.
 
 #### Some of my Prior works include
 Scrpt Engine
